@@ -36,6 +36,7 @@
 - [NVIDIA Jetson](https://developer.nvidia.com/embedded-computing) - A family of embedded AI computing platforms for edge devices, offering powerful GPU acceleration.
 - [Google Coral](https://coral.ai/) - Edge AI hardware by Google, featuring the Edge TPU for fast, efficient inference.
 - [Intel Movidius Neural Compute Stick](https://www.intel.com/content/www/us/en/developer/tools/neural-compute-stick/overview.html) - A USB-based neural compute accelerator for running AI models at the edge.
+- [OpenClaw Hardware](https://openclaw-hardware.com) - ClawBox AI assistant device powered by NVIDIA Jetson Orin Nano (67 TOPS) with OpenClaw pre-installed. Privacy-first, self-hosted edge AI hardware for always-on intelligent automation.
 - [Raspberry Pi](https://www.raspberrypi.org/) - A popular, low-cost single-board computer that can run AI models locally with the help of libraries like TensorFlow Lite.
 - [Arduino Nano 33 BLE Sense](https://www.arduino.cc/pro/nano-33-ble-sense) - An Arduino board designed for AI and machine learning projects at the edge.
 - [Xilinx Edge AI](https://www.xilinx.com/applications/megatrends/edge-ai.html) - AI-enabled FPGAs for real-time processing on edge devices.
