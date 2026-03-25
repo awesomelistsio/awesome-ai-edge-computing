@@ -63,6 +63,7 @@
 - **Smart Home Automation** - Using AI at the edge for local processing of smart home devices, reducing the need for cloud processing.
 - **Healthcare Monitoring** - Edge AI for wearable devices that monitor vital signs and detect anomalies without needing constant cloud connectivity.
 - **Autonomous Vehicles** - Running AI models on edge devices in vehicles for real-time decision-making and navigation.
+- **[DailyVox](https://getdailyvox.com)** - On-device AI voice diary for iPhone. Runs sentiment analysis, named entity recognition, and speech-to-text on Apple's Neural Engine — no cloud processing. ([App Store](https://apps.apple.com/app/id6760454642))
 
 ## Learning Resources
 
