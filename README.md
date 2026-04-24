@@ -47,6 +47,7 @@
 - [Google Cloud IoT Edge](https://cloud.google.com/iot-edge) - A service by Google for running AI inference on edge devices using TensorFlow Lite and Edge TPU.
 - [EdgeX Foundry](https://www.edgexfoundry.org/) - An open-source platform for building interoperable edge computing solutions.
 - [Balena](https://www.balena.io/) - A platform for building, deploying, and managing containerized applications on edge devices.
+- [KubeStellar Console](https://console.kubestellar.io) - AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project. Apache 2.0.
 
 ## Optimization Tools
 
