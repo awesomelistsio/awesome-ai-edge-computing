@@ -64,6 +64,7 @@
 - **Healthcare Monitoring** - Edge AI for wearable devices that monitor vital signs and detect anomalies without needing constant cloud connectivity.
 - **Autonomous Vehicles** - Running AI models on edge devices in vehicles for real-time decision-making and navigation.
 - **[DailyVox](https://getdailyvox.com)** - On-device AI voice diary app using Apple’s native frameworks for speech recognition and NLP, demonstrating privacy-first edge AI.
+- **[Airgap](https://github.com/xmpuspus/airgap)** - Open-source React Native framework for on-device, offline-first customer support chatbots. Runs Gemma 4 E2B locally via llama.rn, with grounded RAG over a JSON knowledge base. Seven industry templates (telco, retail, healthcare, banking, education, insurance, airlines) ship in the repo.
 
 ## Learning Resources
 
